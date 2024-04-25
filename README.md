@@ -1,4 +1,4 @@
-### Bonjour je suis Perrin Emmanuel Nzaou 👋
+### Bonjour, je suis Perrin Emmanuel Nzaou 👋
 
 Passionné par le développement web depuis ma tendre enfance, je suis un développeur autodidacte constamment motivé à explorer de nouvelles technologies. 
 
