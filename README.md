@@ -9,7 +9,9 @@ Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers
 ## Outils et Langages
 
 <p align="left">
-  <a href="https://github.com/pnzaou"><img src="https://skillicons.dev/icons?i=vscode,postman,git,github,mongodb,mysql,figma,tailwind,bootstrap,html,css,js,nodejs,express"></a>
+  <a href="https://github.com/pnzaou">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,mongodb,mysql,figma,tailwind,bootstrap,html,css,js,nodejs,express">
+  </a>
 </p>
 <!--
 **pnzaou/pnzaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
