@@ -15,7 +15,7 @@ Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers
 </p>
 <p align="left">
   <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap,html,css,js,react,nodejs,express">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,js,react,nodejs,express">
   </a>
 </p>
 <!--
