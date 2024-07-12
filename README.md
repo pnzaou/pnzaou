@@ -20,7 +20,7 @@ Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers
 </p>
 <p align="left">
   <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=redux">
+    <img src="https://skillicons.dev/icons?i=redux,ts">
   </a>
 </p>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw?identity__email=perrinemmanuelnzaou%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>23 juin 2024</p><p style="margin: 16px 0; padding: 0;"></p></blockquote>
