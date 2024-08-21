@@ -20,7 +20,7 @@ Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers
 </p>
 <p align="left">
   <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=redux,ts,scss,next,trello">
+    <img src="https://skillicons.dev/icons?i=redux,ts,scss,next">
   </a>
 </p>
 <br>
