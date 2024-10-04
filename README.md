@@ -15,12 +15,12 @@ Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers
 </p>
 <p align="left">
   <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,js,react,nodejs,express">
+    <img src="https://skillicons.dev/icons?i=tailwind,html,css,js,react,vue,nodejs">
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=redux,ts,scss,next">
+    <img src="https://skillicons.dev/icons?i=express,redux,ts,scss,next,bootstrap">
   </a>
 </p>
 <br>
