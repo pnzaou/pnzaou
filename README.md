@@ -26,12 +26,20 @@ Enthousiaste à l’idée de contribuer à des projets collaboratifs et de parta
 ## 🎓 Certifications
 
 <p align="left">
+  <a href="https://diploma.gomycode.app/?id=31733065242678985">
+    <img width="100" src="[https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image](https://www.senformation.com/content/uploads/logo-gomycode-550x550.jpg)" alt="Logo GoMycode">
+  </a>
+</p>
+
+**Postman API Fundamentals Student Expert** • *Awarded: 23 juin 2024*
+
+<p align="left">
   <a href="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw?identity__email=perrinemmanuelnzaou%40gmail.com">
     <img width="100" src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image" alt="Postman Badge">
   </a>
 </p>
 
-**Postman API Fundamentals Student Expert** • *Awarded: 23 juin 2024*
+**Software Developer Bootcamp** • *Awarded: 31 Décembre 2024*
 
 ---
 
