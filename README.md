@@ -27,7 +27,7 @@ Enthousiaste à l’idée de contribuer à des projets collaboratifs et de parta
 
 <p align="left">
   <a href="https://diploma.gomycode.app/?id=31733065242678985">
-    <img width="100" src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image](https://www.senformation.com/content/uploads/logo-gomycode-550x550.jpg" alt="Logo GoMycode">
+    <img width="100" src="[https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image](https://www.senformation.com/content/uploads/logo-gomycode-550x550.jpg](https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/387072056_659845202908519_1663994269270741127_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=b4cg7THHDWgQ7kNvwHKV0R8&_nc_oc=AdlOtzpqVtag6n3KjemtPaPpEHokDKqI_QmJDcwYDdXn2HPDQ8ic-2_C6rwPujLuGWU&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=XDtheejHSkh3cHCumCgF-A&oh=00_AfP1ZE_mPVKZm9awW6MN2DTifzYF8jFdMZHt6oKSfWVdNQ&oe=686D8447)" alt="Logo GoMycode">
   </a>
 </p>
 
