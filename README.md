@@ -19,7 +19,7 @@ Enthousiaste à l’idée de contribuer à des projets collaboratifs et de parta
 
 | Langages                | DevOps & Conteneurs            | UI/UX & Design             |
 |-------------------------|--------------------------------|-----------------------------|
-| ![JavaScript](https://skillicons.dev/icons?i=js,ts) ![HTML5](https://skillicons.dev/icons?i=html,css,scss) | ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GHActions-blue) | ![Figma](https://skillicons.dev/icons?i=figma) |
+| ![JavaScript](https://skillicons.dev/icons?i=js,ts) ![PHP](https://skillicons.dev/icons?i=php) ![HTML5](https://skillicons.dev/icons?i=html,css,scss) | ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GHActions-blue) | ![Figma](https://skillicons.dev/icons?i=figma) |
 
 ---
 
