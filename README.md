@@ -41,6 +41,15 @@ Enthousiaste à l’idée de contribuer à des projets collaboratifs et de parta
 
 **Software Developer Bootcamp** • *Awarded: 31 Décembre 2024*
 
+<p align="left">
+  <a href="https://formation.force-n.sn/mod/customcert/verify_certificate.php?contextid=248505&code=udGgyQp5HR&qrcode=1">
+    <img width="100" src="https://media.licdn.com/dms/image/sync/v2/D4E27AQFvD-s7s_orUg/articleshare-shrink_800/articleshare-shrink_800/0/1711652127574?e=2147483647&v=beta&t=gJY6uWr66zLb8cpUn1NBqi_xsWUsQXXRDP7HI1FNKvE" alt="Logo Force N">
+  </a>
+</p>
+
+**Développement Front-end** • *Awarded: Janvier 2024*
+
+
 ---
 
 ## 🔭 Projets en cours
