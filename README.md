@@ -1,42 +1,68 @@
-### Bonjour, je suis Perrin Emmanuel Nzaou 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-Passionné par le développement web depuis ma tendre enfance, je suis un développeur autodidacte constamment motivé à explorer de nouvelles technologies 🚀. 
+### Bonjour, je suis **Perrin Emmanuel Nzaou** 👋
 
-Toujours avide d’apprendre, je m’efforce de repousser mes limites et d’apporter des solutions innovantes aux défis du développement web 📚. Enthousiaste à l’idée de contribuer à des projets collaboratifs et de partager mes connaissances avec la communauté, j’apprécie particulièrement la résolution de problèmes et la recherche de solutions efficaces 🤝.
+Passionné par le développement web depuis ma tendre enfance, je suis un développeur autodidacte constamment motivé à explorer de nouvelles technologies 🚀. Toujours avide d’apprendre, je m’efforce de repousser mes limites et d’apporter des solutions innovantes aux défis du développement web 📚.
 
-Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers l’excellence technique, je m’efforce de créer des expériences web uniques et engageantes pour les utilisateurs ✨.
+Enthousiaste à l’idée de contribuer à des projets collaboratifs et de partager mes connaissances avec la communauté, j’apprécie particulièrement la résolution de problèmes et la recherche de solutions efficaces 🤝. Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers l’excellence technique, je m’efforce de créer des expériences web uniques et engageantes pour les utilisateurs ✨.
 
-## Outils et Langages
+---
+
+## 🛠️ Outils & Langages
+
+| IDE & Git               | Frameworks & Bibliothèques     | Bases de données & Cloud    |
+|-------------------------|--------------------------------|-----------------------------|
+| ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git,github) ![Postman](https://skillicons.dev/icons?i=postman) | ![React](https://skillicons.dev/icons?i=react,vue,next) ![Tailwind](https://skillicons.dev/icons?i=tailwind,bootstrap) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
+
+| Langages                | DevOps & Conteneurs            | UI/UX & Design             |
+|-------------------------|--------------------------------|-----------------------------|
+| ![JavaScript](https://skillicons.dev/icons?i=js,ts) ![HTML5](https://skillicons.dev/icons?i=html,css,scss) | ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GHActions-blue) | ![Figma](https://skillicons.dev/icons?i=figma) |
+
+---
+
+## 🎓 Certifications
 
 <p align="left">
-  <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,mongodb,mysql,figma">
+  <a href="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw?identity__email=perrinemmanuelnzaou%40gmail.com">
+    <img width="100" src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image" alt="Postman Badge">
   </a>
 </p>
-<p align="left">
-  <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=tailwind,html,css,js,react,vue,nodejs">
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/pnzaou">
-    <img src="https://skillicons.dev/icons?i=docker,express,redux,ts,scss,next,bootstrap">
-  </a>
-</p>
-<br>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw?identity__email=perrinemmanuelnzaou%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/MIA4wtwYRt-dmCF8mrx9gw/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>23 juin 2024</p><p style="margin: 16px 0; padding: 0;"></p></blockquote>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<!--
-**pnzaou/pnzaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Postman API Fundamentals Student Expert** • *Awarded: 23 juin 2024*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Projets en cours
+
+<details>
+  <summary>Ma plateforme de cours en ligne (React, Node.js, MongoDB)</summary>
+
+  - Système de vidéos et quiz interactifs
+  - Paiement avant accès aux résultats d'examens
+  - Export PDF des certificats
+</details>
+
+<details>
+  <summary>Application de réservation de véhicules (React, Tailwind CSS, Express, MongoDB)</summary>
+
+  - Sélection de dates avec calendrier
+  - Calcul dynamique du prix
+  - PDF des devis imprimables
+</details>
+
+---
+
+## 📫 Contact & Réseaux
+
+<p align="center">
+  <a href="mailto:nzaouperrinemmanuel@gmail.com"><img src="https://img.shields.io/badge/📧-Email-blue?style=flat-square" alt="Email"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pnzaou"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square" alt="LinkedIn"></a>
+  &nbsp;
+</p>
+
+---
+
