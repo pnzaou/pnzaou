@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### Bonjour, je suis **Perrin Emmanuel Nzaou** 👋
