@@ -15,7 +15,7 @@ Enthousiaste à l’idée de contribuer à des projets collaboratifs et de parta
 
 | IDE & Git               | Frameworks & Bibliothèques     | Bases de données & Cloud    |
 |-------------------------|--------------------------------|-----------------------------|
-| ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git,github) ![Postman](https://skillicons.dev/icons?i=postman) | ![React](https://skillicons.dev/icons?i=react,vue,next) ![Tailwind](https://skillicons.dev/icons?i=tailwind,bootstrap) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
+| ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git,github) ![Postman](https://skillicons.dev/icons?i=postman) | ![React](https://skillicons.dev/icons?i=react,vue,next) ![Back-end](https://skillicons.dev/icons?i=express,laravel) ![Tailwind](https://skillicons.dev/icons?i=tailwind,bootstrap) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 
 | Langages                | DevOps & Conteneurs            | UI/UX & Design             |
 |-------------------------|--------------------------------|-----------------------------|
