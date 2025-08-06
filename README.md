@@ -5,7 +5,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnzaou&theme=algolia&show_icons=true" alt="Most Used Languages" />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=pnzaou&theme=radical&layout=compact"
+        alt="Most Used Languages" />
     </td>
   </tr>
 </table>
