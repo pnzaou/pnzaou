@@ -14,10 +14,6 @@
 
 ### Bonjour, je suis **Perrin Emmanuel Nzaou** 👋
 
-Passionné par le développement web depuis ma tendre enfance, je suis un développeur autodidacte constamment motivé à explorer de nouvelles technologies 🚀. Toujours avide d’apprendre, je m’efforce de repousser mes limites et d’apporter des solutions innovantes aux défis du développement web 📚.
-
-Enthousiaste à l’idée de contribuer à des projets collaboratifs et de partager mes connaissances avec la communauté, j’apprécie particulièrement la résolution de problèmes et la recherche de solutions efficaces 🤝. Fort de ma curiosité insatiable, de ma créativité et de mon engagement envers l’excellence technique, je m’efforce de créer des expériences web uniques et engageantes pour les utilisateurs ✨.
-
 ---
 
 ## 🛠️ Outils & Langages
