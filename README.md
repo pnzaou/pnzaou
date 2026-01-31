@@ -5,9 +5,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=pnzaou&theme=radical&layout=compact"
-        alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnzaou&theme=radical&layout=compact" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
@@ -34,7 +32,7 @@
   <tr>
     <td align="center">
       <a href="https://diploma.gomycode.app/?id=31733065242678985">
-        <img src="https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/387072056_659845202908519_1663994269270741127_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=b4cg7THHDWgQ7kNvwHKV0R8&_nc_oc=AdlOtzpqVtag6n3KjemtPaPpEHokDKqI_QmJDcwYDdXn2HPDQ8ic-2_C6rwPujLuGWU&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=XDtheejHSkh3cHCumCgF-A&oh=00_AfP1ZE_mPVKZm9awW6MN2DTifzYF8jFdMZHt6oKSfWVdNQ&oe=686D8447" width="80" alt="GoMycode">
+        <img src="https://scontent.fdkr6-1.fna.fbcdn.net/v/t39.30808-6/329322128_596331872326049_1649995975510913202_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jRVx1Gpgc00Q7kNvwE-9N7x&_nc_oc=AdlybvzrGermIIzSxE4XQz9QpxAvOeRP5hvIb3trviUzi4oQOueu7MguwTtTRBl0_qQ&_nc_zt=23&_nc_ht=scontent.fdkr6-1.fna&_nc_gid=Oe2AfRTS5Zwwd7Ue7StbqA&oh=00_Afu_T_bNwb-3rv_Ws-RIZQu2eceg_PsZZgZXBZyEfOF5Jw&oe=6984431C" width="80" alt="GoMycode">
       </a><br>
       <strong>Gomycode<br>Software Developer Bootcamp</strong><br>
       <small>Awarded: 31 Décembre 2024</small>
