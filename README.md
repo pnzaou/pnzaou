@@ -4,10 +4,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pnzaou&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnzaou&theme=radical&layout=compact&cache_seconds=86400" />
-</p>
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnzaou&theme=radical&layout=compact" alt="Most Used Languages" /> </td> </tr> </table>
 
 ---
 
