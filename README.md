@@ -1,32 +1,168 @@
-<!-- Banner -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnzaou&theme=radical&layout=compact" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Activity & Stats
 
-### Bonjour, je suis **Perrin Emmanuel Nzaou** 👋
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pnzaou&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pnzaou&show_icons=true&theme=radical&rank_icon=github&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnzaou&theme=radical&layout=compact&cache_seconds=86400" />
+</p>
 
 ---
 
-## 🛠️ Outils & Langages
-
-| IDE & Git               | Frameworks & Bibliothèques     | Bases de données & Cloud    |
-|-------------------------|--------------------------------|-----------------------------|
-| ![VSCode](https://skillicons.dev/icons?i=vscode) ![Git](https://skillicons.dev/icons?i=git,github) ![Postman](https://skillicons.dev/icons?i=postman) | ![React](https://skillicons.dev/icons?i=react,vue,next) ![Back-end](https://skillicons.dev/icons?i=express,laravel) ![Tailwind](https://skillicons.dev/icons?i=tailwind,bootstrap) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
-
-| Langages                | DevOps & Conteneurs            | UI/UX & Design             |
-|-------------------------|--------------------------------|-----------------------------|
-| ![JavaScript](https://skillicons.dev/icons?i=js,ts) ![PHP](https://skillicons.dev/icons?i=php) ![HTML5](https://skillicons.dev/icons?i=html,css,scss) | ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GHActions-blue) | ![Figma](https://skillicons.dev/icons?i=figma) |
+# 👋 Perrin Emmanuel Nzaou
+**Développeur Full-Stack — MERN • Next.js**
 
 ---
 
-## 🎓 Certifications
+## 🚀 Projets réalisés
+
+### ⚡ MERN Starter CLI
+🔗 https://www.npmjs.com/package/mern-starter-cli  
+
+CLI permettant de générer rapidement une architecture **MERN prête à l’emploi**, notamment côté backend Express (sécurité, middlewares, structure propre).
+
+<details>
+  <summary><strong>📦 Stack</strong></summary>
+
+  - Node.js
+  - Express
+  - MongoDB
+  - JWT
+  - Helmet
+  - CORS
+  - Morgan
+</details>
+
+---
+
+### 🏗️ Stock-Prox — Application de gestion (MERN)
+🔗 https://gestion-quincaillerie.vercel.app/
+
+Application complète de gestion destinée aux commerces / quincailleries.
+
+<details>
+  <summary><strong>⚙️ Fonctionnalités</strong></summary>
+
+  - CRUD catégories & produits  
+  - Enregistrement des ventes  
+  - Génération de factures, devis PDF, tickets de caisse  
+  - Gestion fournisseurs & commandes fournisseurs  
+  - Suivi de stock (alertes de rupture)  
+  - Dashboard (chiffre d’affaires, ventes)  
+  - Rapports automatiques (journalier, hebdomadaire, mensuel, annuel) via cron jobs
+</details>
+
+<details>
+  <summary><strong>📦 Stack</strong></summary>
+
+  - MERN
+  - Tailwind CSS
+  - shadcn/ui
+</details>
+
+---
+
+### 🛒 FAET — Plateforme e-commerce multi-vendeurs
+- Vendeurs : https://sell.byfaet.fr  
+- Clients : https://byfaet.fr  
+
+Plateforme e-commerce complète multi-acteurs.
+
+<details>
+  <summary><strong>🧑‍💼 Côté vendeur</strong></summary>
+
+  - Création de boutique (manuelle ou import Shopify, Zalando…)
+  - Stripe Connect (paiements)
+  - Dashboard (commandes, ventes, chiffre d’affaires, factures)
+</details>
+
+<details>
+  <summary><strong>🛍️ Côté client</strong></summary>
+
+  - Parcours produits & catégories
+  - Favoris, panier, commande
+  - Paiement CB (Stripe)
+  - Compte client & suivi des commandes
+  - Suivi de vendeurs
+</details>
+
+<details>
+  <summary><strong>📦 Stack</strong></summary>
+
+  - React
+  - Laravel
+  - Tailwind CSS + shadcn/ui
+  - Redux
+  - PostgreSQL
+  - Stripe
+</details>
+
+---
+
+### 🛍️ Oce-Shop — Plateforme e-commerce
+🔗 https://www.oce-shop.store  
+
+Plateforme e-commerce développée pour une cliente.
+
+<details>
+  <summary><strong>🛠️ Admin</strong></summary>
+
+  - Gestion produits & catégories
+  - Gestion des commandes (acceptation / refus)
+  - Suivi en temps réel :
+    - ventes du jour
+    - chiffre d’affaires (jour, mois, année)
+    - commandes en attente
+    - top produits
+  - Visualisation graphique de l’évolution du chiffre d’affaires
+</details>
+
+<details>
+  <summary><strong>👤 Client</strong></summary>
+
+  - Consultation produits & catégories
+  - Panier & validation de commande
+  - Création de compte
+  - Favoris
+  - Suivi des commandes
+</details>
+
+<details>
+  <summary><strong>📦 Stack</strong></summary>
+
+  - Next.js (App Router)
+  - MongoDB
+  - Tailwind CSS + shadcn/ui
+  - Resend (emails transactionnels)
+</details>
+
+---
+
+### 📊 Application de rapports PME
+
+Application destinée aux **comptables et gérants** pour le suivi d’activité et la génération de rapports.
+
+<details>
+  <summary><strong>⚙️ Fonctionnalités</strong></summary>
+
+  - Saisie de rapports
+  - Impression de rapports
+  - Suivi périodique des activités
+</details>
+
+<details>
+  <summary><strong>📦 Stack</strong></summary>
+
+  - Next.js
+  - MongoDB
+  - Tailwind CSS
+</details>
+
+---
+
+## 🎓 Certifications & Diplômes
 
 <table>
   <tr>
@@ -54,37 +190,15 @@
   </tr>
 </table>
 
+---
+
+## 🧰 Stack & Outils
+
+![Languages](https://skillicons.dev/icons?i=js,ts,php) ![Front](https://skillicons.dev/icons?i=react,next,vue) ![Back](https://skillicons.dev/icons?i=nodejs,express,laravel) ![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql) ![UI](https://skillicons.dev/icons?i=tailwind,figma) ![DevOps](https://skillicons.dev/icons?i=docker,git,github)
 
 ---
 
-## 🔭 Projets en cours
+## 📫 Contact
 
-<details>
-  <summary>Ma plateforme de cours en ligne (React, Node.js, MongoDB)</summary>
-
-  - Système de vidéos et quiz interactifs
-  - Paiement avant accès aux résultats d'examens
-  - Export PDF des certificats
-</details>
-
-<details>
-  <summary>Application de réservation de véhicules (React, Tailwind CSS, Express, MongoDB)</summary>
-
-  - Sélection de dates avec calendrier
-  - Calcul dynamique du prix
-  - PDF des devis imprimables
-</details>
-
----
-
-## 📫 Contact & Réseaux
-
-<p align="center">
-  <a href="mailto:nzaouperrinemmanuel@gmail.com"><img src="https://img.shields.io/badge/📧-Email-blue?style=flat-square" alt="Email"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pnzaou"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square" alt="LinkedIn"></a>
-  &nbsp;
-</p>
-
----
-
+- 📧 **Email** : nzaouperrinemmanuel@gmail.com  
+- 💼 **LinkedIn** : https://www.linkedin.com/in/pnzaou
