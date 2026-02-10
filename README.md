@@ -198,4 +198,4 @@ Application destinée aux **comptables et gérants** pour le suivi d’activité
 ## 📫 Contact
 
 - 📧 **Email** : nzaouperrinemmanuel@gmail.com  
-- 💼 **LinkedIn** : https://www.linkedin.com/in/pnzaou
+- 💼 **LinkedIn** : https://www.linkedin.com/in/perrin-emmanuel-nzaou-37941b307
