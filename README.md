@@ -11,6 +11,10 @@
 # 👋 Perrin Emmanuel Nzaou
 **Développeur Full-Stack — MERN • Next.js**
 
+## 🧰 Stack & Outils
+
+![Languages](https://skillicons.dev/icons?i=js,ts,java) ![Back](https://skillicons.dev/icons?i=nodejs,nest,express,spring) ![Front](https://skillicons.dev/icons?i=react,next) ![DB](https://skillicons.dev/icons?i=mongodb,postgres,prisma,mysql) ![UI](https://skillicons.dev/icons?i=tailwind) ![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab)
+
 ---
 
 ## 🚀 Projets réalisés
@@ -186,12 +190,6 @@ Application destinée aux **comptables et gérants** pour le suivi d’activité
     </td>
   </tr>
 </table>
-
----
-
-## 🧰 Stack & Outils
-
-![Languages](https://skillicons.dev/icons?i=js,ts,php) ![Front](https://skillicons.dev/icons?i=react,next,vue) ![Back](https://skillicons.dev/icons?i=nodejs,express,laravel) ![DB](https://skillicons.dev/icons?i=mongodb,postgres,mysql) ![UI](https://skillicons.dev/icons?i=tailwind,figma) ![DevOps](https://skillicons.dev/icons?i=docker,git,github)
 
 ---
 
