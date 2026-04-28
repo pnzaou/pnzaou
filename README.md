@@ -9,7 +9,7 @@
 ---
 
 # 👋 Perrin Emmanuel Nzaou
-**Développeur Full-Stack — MERN • Next.js**
+**Développeur Full-Stack — React/Node-Java**
 
 ## 🧰 Stack & Outils
 
