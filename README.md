@@ -13,7 +13,7 @@
 
 ## 🧰 Stack & Outils
 
-![Languages](https://skillicons.dev/icons?i=js,ts,java) ![Back](https://skillicons.dev/icons?i=nodejs,nest,express,spring) ![Front](https://skillicons.dev/icons?i=react,next) ![DB](https://skillicons.dev/icons?i=mongodb,postgres,prisma,mysql) ![UI](https://skillicons.dev/icons?i=tailwind) ![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab)
+![Languages](https://skillicons.dev/icons?i=js,ts,java) ![Back](https://skillicons.dev/icons?i=nodejs,nest,express,spring) ![Front](https://skillicons.dev/icons?i=react,next) ![DB](https://skillicons.dev/icons?i=mongodb,postgres,prisma,mysql) ![UI](https://skillicons.dev/icons?i=tailwind) ![DevOps](https://skillicons.dev/icons?i=docker,git,github,gitlab,vite,jest,vitest)
 
 ---
 
